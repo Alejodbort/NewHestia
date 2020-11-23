@@ -197,3 +197,11 @@
 /datum/gear/uniform/frontier
 	display_name = "frontier clothes"
 	path = /obj/item/clothing/under/frontier
+
+/datum/gear/uniform/redsuit
+	display_name = "Traje rojo, femenino"
+	path = /obj/item/clothing/under/suit_jacket/redsuit
+
+/datum/gear/uniform/redsuitskirt
+	display_name = "Traje rojo con falda, femenino"
+	path = /obj/item/clothing/under/suit_jacket/redsuit/redsuitskirt

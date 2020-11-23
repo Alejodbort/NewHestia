@@ -87,3 +87,7 @@
 
 /datum/gear/uniform/corp_exec_jacket
 	allowed_roles = list(/datum/job/liaison, /datum/job/bodyguard)
+
+/datum/gear/uniform/redsuit
+
+/datum/gear/uniform/redsuitskirt
